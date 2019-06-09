@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.0.2",
+    "@material-ui/icons": "^4.0.1",
+    "google-map-react": "^1.1.4",
+    "numeral": "^2.0.6",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-table": "^6.10.0",
+    "recompose": "^0.30.0"
   },
   "scripts": {
     "start": "react-scripts start",
